@@ -82,7 +82,7 @@ function initPushwoosh() {
 	pushNotification.onDeviceReady({
 		projectid: "conoceme-dd572",
 		appid: "1:80917608573:android:889a3ce3c80263ae",
-		serviceName: ""
+		serviceName: "com.conoceme"
 	});
 
 	//register for push notifications
