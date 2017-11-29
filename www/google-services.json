@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "969077148048",
+    "firebase_url": "https://conoceme-web-6b5f4.firebaseio.com",
+    "project_id": "conoceme-web-6b5f4",
+    "storage_bucket": "conoceme-web-6b5f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969077148048:android:83f44f7d278b6e26",
+        "android_client_info": {
+          "package_name": "com.conocemeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969077148048-n15vm0j6vhbi95f27euluka16la6ap64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1SXAOtusj9OwGolxrJRtN4gbqTYwj_ys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
